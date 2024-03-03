@@ -1,4 +1,6 @@
 # Project2-TimeSeries
+
+## Section 1: Software/Platform
 Python and R for MaciOS were utilized for this project. 
 
 Packages required: 
