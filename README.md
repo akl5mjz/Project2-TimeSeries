@@ -1,7 +1,5 @@
 # Project2-TimeSeries
-
-## Section 1: Software and platform
-The softwares that were used for this project include Python and R on Macbooks. 
+Python and R for MaciOS were utilized for this project. 
 
 Packages required: 
 - Data Cleaning
