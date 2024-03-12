@@ -4,12 +4,12 @@
 Python and R for MaciOS were utilized for this project. 
 
 Packages required: 
-- Data Cleaning
+- Data Cleaning (Python)
    1. pandas
 
-- EDA
+- EDA (R)
 
-- Regression & AMRIA
+- Regression & AMRIA (Python)
    1. pandas
    2. numpy
    3. sklearn.linear_model
