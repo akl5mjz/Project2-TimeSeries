@@ -1,15 +1,21 @@
 # Time Series Project
 
 ## Section 1: Software/Platform
-Python and R for MaciOS were utilized for this project. 
+Python for MaciOS were utilized for this project. 
 
 Packages required: 
 - Data Cleaning (Python)
    1. pandas
 
-- EDA (R)
+- EDA
+   1. pandas
+   2. numpy
+   3. matplot.lib.pyplot
+   4. datetime
+   5. matplotlib.dates
+   6. matplotlib.ticker
 
-- Regression & AMRIA (Python)
+- Regression (Python)
    1. pandas
    2. numpy
    3. sklearn.linear_model
@@ -17,6 +23,13 @@ Packages required:
    5. datetime
    6. statsmodels.api
    7. scipy
+      
+- SARIMA, ARIMA, & SVP (Python)
+   1. statsmodels.tsa.arima.model
+   2. statsmodels.tsa.statespace.sarimax
+   3. sklearn.metrics
+   4. sklearn.svm
+   5. sklearn.preprocessing
 
 ## Section 2: Documentation Map
 - DATA
@@ -33,6 +46,14 @@ Packages required:
    7. notes_coeff.png
    8. notes_plot.png
    9. notes_significance.png
+   10. acf_bills.png
+   11. pacf_bills.png
+   12. acf_bonds.png
+   13. pacf_bonds.png
+   14. acf_notes.png
+   15. pacf_notes.png
+   16. Average Interest Rate Amount Over Record Date.png
+   17. 
    
 - SCRIPTS
    1. data_cleaning.ipynb
