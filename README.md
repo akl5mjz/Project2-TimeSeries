@@ -57,7 +57,11 @@ Packages required:
    
 - SCRIPTS
    1. data_cleaning.ipynb
-   2. linear_regression.ipynb
+   2. linear_regression_and_pacf_acf.ipynb
+   3. EDA_timeseries.ipynb
+   4. arima_sarima_model.py
+   5. master_script.ipynb
+   6. svr_model.py
   
 ## Section 3: Instructions for reproducing results. 
 In order to reproduce these results shown, run the master files in the SCRIPTS folder. 
