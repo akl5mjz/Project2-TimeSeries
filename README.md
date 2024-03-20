@@ -53,7 +53,7 @@ Packages required:
    14. acf_notes.png
    15. pacf_notes.png
    16. Average Interest Rate Amount Over Record Date.png
-   17. 
+   17. sarima_arima.png
    
 - SCRIPTS
    1. data_cleaning.ipynb
